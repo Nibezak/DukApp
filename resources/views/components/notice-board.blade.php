@@ -31,15 +31,15 @@ Sponsor-ship
 x-data="{show :false }"
 x-init= "setTimeout(() => show = true , 1000)"
 x-show = "show">
-{{-- @if($ad)
+@if($ad)
 {!!$ad->content!!}
 @else
 <div class=" py-3 mt-2 mb-2 pb-1 pt-2 bg-gray-200 px-6 round-md text-gray-500 ">
         It Appears , nothing Has been added  Contact us to earn this , Ad Spot <a class="text-blue-500" href="https://mail.google.com/mail/u/0/#inbox" target="_blank">DukApp@gmail.com
         </a>
     </div>
-@endif --}}
-<div class="px-8 mt-10">
+@endif
+{{-- <div class="px-8 mt-10">
                     <div class="flex flex-col max-w-sm px-4 py-6 mx-auto bg-white rounded-lg shadow-md">
                         <ul>
                             <li><a href="#" class="mx-1 font-bold text-gray-700 hover:text-gray-600 hover:underline">-
@@ -70,7 +70,7 @@ x-show = "show">
 
                         </ul>
                     </div>
-                </div>
+                </div> --}}
 </div>
 <div>
     <a href="https://mail.google.com/mail/u/0/#inbox" class="text-gray-400 font-light">want to earn a place on the notice board? Talk to us on Gmail

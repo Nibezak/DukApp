@@ -22,7 +22,7 @@ Without an</p>
 <div>
 
 <center>
-    <img src="./images/app-preview.jpeg" class="border-8 border-gray-800 rounded-md" width="300" height="300">
+    <img src="/images/stock-items.png" class="" width="300" height="300">
 </center>
 </div>
         </div>
@@ -129,7 +129,7 @@ Without an</p>
 <div>
 
 <div class="flex justify-center">
-    <img src="./images/app-preview-4.png" class="rounded-md " width="400" height="400">
+    <img src="/images/app-preview-4.png" class="rounded-md " width="400" height="400">
 </div>
 </div>
         </div>

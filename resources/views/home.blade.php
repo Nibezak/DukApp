@@ -44,8 +44,8 @@
 
 
             <div class="max-w-lg md:mx-12 md:order-2">
-                <h1 class="block text-2xl font-light  text-gray-800 dark:text-white md:text-4xl">Simple. Secure. Reliable Storage.</h1>
-                <p class="mt-4 text-gray-600 dark:text-gray-300 text-lg">With DukApp, you'll get fast, simple, secure Storage and keeping track For free*, available on phones all over the world.
+                <h1 class="block text-2xl font-light  text-gray-800 dark:text-white md:text-4xl">Dependable, Accurate, Small Shop Manager.</h1>
+                <p class="mt-4 text-gray-600 dark:text-gray-300 text-lg">With DukApp, you get simple, secure, reliable shop management and key insights to grow your small business to the next level for free.
                 </p>
                 <p class="text-sm text-gray-300 mt-3 ">* Data charges may apply. Contact your provider for details</p>
 
@@ -67,7 +67,7 @@
         </div>
 
         <div class="flex items-center justify-center   md:w-1/2">
-            <img class="object-cover  border-8 border-gray-800 rounded-md" src="/images/app-preview.jpeg" width="300" height="320" alt="apple watch photo">
+            <img class="object-cover" src="/images/app-preview-1.png" width="300" height="320" alt="apple watch photo">
         </div>
     </div>
 </section>
@@ -77,53 +77,6 @@
 
 
 
-<div class="block md:grid grid-cols-2 gap-4 py-12">
-
-
-<div class="inline-block w-full border-r-8 border-white px-6 pt-6 items-center justify-center rounded-md`" style="background: #D8E8EA;">
-    <center>
-        <div class="mt-12 justify-center text-center items-center">
-            <div class="py-4 mb-5 pt-2">
-            <h1 class="text-3xl font- font-thin  ">DukApp Business App</h1>
-            </div>
-
-
-           <p class="text-sm my-1"><a class="text-blue-500"> DukApp Business</a> is a free to download app that was built with the small</p>
-           <p class="text-sm my-1"> business owner in mind. Create a catalog to showcase your products and</p>
-           <p class="text-sm my-1"> services. Connect with your customers easily by using tools to automate, sort and</p>
-           <p class="text-sm my-1"> quickly respond to messages.</p>
-<div class="my-6">
-
- <p class="text-sm my-1">DukApp can also help medium and large businesses provide customer support</p>
- <p class="text-sm my-1">and deliver important notifications to customers. Learn more about <a class="text-blue-500">DukApp Business API.</a></p>
-</div>
-    <div class="flex justify-center pt-8 my-4">
-        <img src="./images/app-preview-2.jpg" class="border-8 border-gray-800 rounded-md" width="200" height="200">
-    </div>
-        </div>
-    </center>
-</div>
-
-
-  <div class=" w-full border-r-8 border-white px-6 py-6 items-center justify-center rounded-md" style="background: #E7F0E4;">
-
-        <center>
-        <img src="./images/new-app.gif" width="200" height="200" class="pt-8 rounded-full">
-    </center>
-                <h1 class="text-md font-normal text-center my-10 text-gray-400 font-sans mt-24">END-TO-END ENCRYPTION</h1>
-            <h1 class="text-3xl text-center py-3 font-thin ">Security by Defaulty</h1>
-            <div class=" justify-center w-full px-10 pb-16">
-           <p class="text-center font-light">Some of your most personal moments are shared on DukApp,</p>
-           <p class="text-center font-light">which is why we built end-to-end encryption into the latest</p>
-           <p class="text-center font-light">versions of our app. When end-to-end encrypted, your messages</p>
-           <p class="text-center font-light">and calls are secured so only you and the person you're</p>
-           <p class="text-center font-light">communicating with can read or listen to them, and nobody in</p>
-           <p class="text-center font-light">between, not even DukApp.</p>
-
-      </div>
-
-    </div>
-</div>
 
 
 <div class="w-full py-10 px-2">

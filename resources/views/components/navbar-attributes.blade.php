@@ -3,7 +3,7 @@
 <a href="/">
 <div class="flex">
                     <img src="/svg/dukapp-svg.svg" class=" shadow-lg">
-                    <p class="inline-block py-2 px-4 text-gray-100 font-semibold text-xl no-underline " href="#">DukApp</p>
+                    <p class="inline-block py-2 px-4 text-gray-100 font-Bold text-2xl no-underline " href="#">DukApp</p>
 </div>
                 </a>
 

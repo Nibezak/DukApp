@@ -53,9 +53,6 @@
             <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
                 Blog
             </a>
-            <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
-              DukApp Stories
-            </a>
 
         </div>
 
