@@ -23,7 +23,7 @@
     <nav :class="{'flex': open, 'hidden': !open}" class="inline-flex flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
 
 
-          <a class="inline-block py-2 px-4 text-gray-100 font-semibold text-sm no-underline border-b-1 border-gray-300" href="/posts">ARTICLES</a>
+          <a class="inline-block py-2 px-4 text-gray-100 font-semibold text-sm no-underline border-b-1 border-gray-300" href="/posts">NEWS</a>
 
           <a class="inline-block py-2 px-4 text-gray-100 font-semibold  text-sm  no-underline border-b-1 border-gray-300" href="features">FEATURES</a>
 
@@ -115,7 +115,7 @@
            Download
             </a>
             <a href="/posts" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
-              Articles
+              NEWS
             </a>
             <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
               Business
