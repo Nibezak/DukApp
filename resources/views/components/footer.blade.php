@@ -93,9 +93,7 @@
             <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
                 Twitter
             </a>
-            <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
-             Facaebook
-            </a>
+
             <a href="#" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">
                 Coronavirus
             </a>
